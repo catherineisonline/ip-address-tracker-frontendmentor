@@ -1,3 +1,3 @@
 // config.js
-const API_KEY = '9c095da267384cf0a9fccc8c7cb83ec5&ip'
+const API_KEY = 'bb4a1dfe304f4fdc85e6905b52523834'
 export default API_KEY
